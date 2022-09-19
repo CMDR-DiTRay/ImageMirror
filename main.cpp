@@ -1,5 +1,5 @@
 #include <iostream>
-#include <Magick++.h>
+#include <ImageMagick-6/Magick++.h>
 
 using namespace std;
 using namespace Magick;
